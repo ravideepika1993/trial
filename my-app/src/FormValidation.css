@@ -1,0 +1,47 @@
+.form-group{
+    border:1px solid blue;
+    width:500px;
+    margin: auto;
+}
+.user-name{
+    margin-right: 330px;
+    
+}
+.input-g1{
+    width:450px;
+}
+.user-age{
+    margin-right: 340px;
+}
+.input-g2{
+    width: 450px;
+}
+.user-ph{
+    margin-right: 250px;
+
+}
+.input-g3{
+    width: 450px;
+}
+.user-email{
+    margin-right: 320px;
+}
+.input-g4{
+    width: 450px;
+}
+.user-pw{
+    margin-right: 310px;
+}
+.input-g5{
+    width: 450px;
+}
+.user-cpw{
+    margin-right: 250px;
+
+}
+.input-g6{
+    width:450px;
+}
+.form-group{
+    background-image: linear-gradient(purple,pink);
+}

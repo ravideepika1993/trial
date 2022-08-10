@@ -1,0 +1,23 @@
+.f-head{
+    font-size: 28px;
+    color: blue;
+    
+}
+.para-f{
+    font-size:20px ;
+    text-align: justify;
+    padding: 20px;
+    
+}
+.para-f1{
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+}
+.f-link{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    
+    
+}
