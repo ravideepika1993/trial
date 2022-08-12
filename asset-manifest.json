@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/trial/static/css/main.61e1b010.css",
+    "main.js": "/trial/static/js/main.7cda6e0d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/trial/static/js/787.28cb0dcd.chunk.js",
+    "static/media/electronicss.jpg": "/trial/static/media/electronicss.8c3f79611920b1b3860a.jpg",
+    "index.html": "/trial/index.html",
+    "main.61e1b010.css.map": "/trial/static/css/main.61e1b010.css.map",
+    "main.7cda6e0d.js.map": "/trial/static/js/main.7cda6e0d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/trial/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61e1b010.css",
+    "static/js/main.7cda6e0d.js"
+  ]
+}
